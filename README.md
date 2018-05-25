@@ -33,8 +33,8 @@ If you feel comfortable with the concept of each data structure and only want to
 
 **Note:**
 #### References to Follow for DS in JS
-https://github.com/trekhleb/javascript-algorithms
-https://itnext.io/algorithms-and-data-structures-in-javascript-a71548f902cb
+- https://github.com/trekhleb/javascript-algorithms
+- https://itnext.io/algorithms-and-data-structures-in-javascript-a71548f902cb
 
 ## The #sorting-algorithms series
 
